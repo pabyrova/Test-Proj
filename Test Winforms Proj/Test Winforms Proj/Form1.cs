@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraScheduler;
 
 namespace Test_Winforms_Proj
 {
@@ -20,6 +21,7 @@ namespace Test_Winforms_Proj
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.Activate();
         }
     }
 }
