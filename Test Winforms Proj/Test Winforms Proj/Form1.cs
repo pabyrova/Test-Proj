@@ -22,7 +22,7 @@ namespace Test_Winforms_Proj
 
         private void Form1_Closing(object sender, CancelEventArgs e)
         {
-            throw new NotImplementedException();
+            Dispose();
         }
 
         private void Form1_Load(object sender, EventArgs e) {
