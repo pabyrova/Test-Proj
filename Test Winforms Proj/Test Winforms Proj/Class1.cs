@@ -9,5 +9,6 @@ namespace Test_Winforms_Proj
     class Class1 {
         private int a;
         private int _b;
+        private int _d;
     }
 }
