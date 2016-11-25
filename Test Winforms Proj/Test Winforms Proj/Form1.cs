@@ -17,6 +17,12 @@ namespace Test_Winforms_Proj
         {
             InitializeComponent();
             Load += Form1_Load;
+            Closing += Form1_Closing;
+        }
+
+        private void Form1_Closing(object sender, CancelEventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         private void Form1_Load(object sender, EventArgs e) {
