@@ -19,9 +19,8 @@ namespace Test_Winforms_Proj
             Load += Form1_Load;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            this.Activate();
+        private void Form1_Load(object sender, EventArgs e) {
+            bool lVisible = Visible;
         }
     }
 }
