@@ -27,7 +27,6 @@ namespace Test_Winforms_Proj
 
         private void Form1_Load(object sender, EventArgs e) {
             Invalidate();
-            bool lVisible = Visible;
         }
     }
 }
