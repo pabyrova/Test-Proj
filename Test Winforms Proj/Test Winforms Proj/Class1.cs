@@ -11,5 +11,8 @@ namespace Test_Winforms_Proj
         private int _b;
         private int c;
         private int d;
+        private int k;
+        private int l;
+        private int e;
     }
 }
