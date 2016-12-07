@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_Winforms_Proj
 {
-    class Class4
-    {
+    class Class4 {
+        public int a = 5;
     }
 }
