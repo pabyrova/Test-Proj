@@ -18,6 +18,7 @@ namespace Test_Winforms_Proj
             InitializeComponent();
             Load += Form1_Load;
             Closing += Form1_Closing;
+            Closing += Form1_Closing;
         }
 
         private void Form1_Closing(object sender, CancelEventArgs e)
