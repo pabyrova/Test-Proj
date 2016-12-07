@@ -16,6 +16,7 @@ namespace Test_Winforms_Proj
         public Form1()
         {
             InitializeComponent();
+            InitializeComponent();
             Load += Form1_Load;
             Load += Form1_Load;
             Closing += Form1_Closing;
