@@ -20,6 +20,7 @@ namespace Test_Winforms_Proj
             Load += Form1_Load;
             Load += Form1_Load;
             Load += Form1_Load;
+            Load += Form1_Load;
             Closing += Form1_Closing;
             Closing += Form1_Closing;
             Closing += Form1_Closing;
