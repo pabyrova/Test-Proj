@@ -20,6 +20,7 @@ namespace Test_Winforms_Proj
             Closing += Form1_Closing;
             Closing += Form1_Closing;
             Closing += Form1_Closing;
+            Closing += Form1_Closing;
         }
 
         private void Form1_Closing(object sender, CancelEventArgs e)
