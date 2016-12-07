@@ -8,5 +8,7 @@ namespace Test_Winforms_Proj
 {
     class Class3 {
         public int a;
+        public int b;
+        public int c;
     }
 }
