@@ -19,6 +19,7 @@ namespace Test_Winforms_Proj
             InitializeComponent();
             Load += Form1_Load;
             Load += Form1_Load;
+            Load += Form1_Load;
             Closing += Form1_Closing;
             Closing += Form1_Closing;
             Closing += Form1_Closing;
