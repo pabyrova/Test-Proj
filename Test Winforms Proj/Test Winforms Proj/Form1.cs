@@ -25,9 +25,13 @@ namespace Test_Winforms_Proj
             Dispose();
             Dispose();
             Dispose();
+            Dispose();
+            Dispose();
         }
 
         private void Form1_Load(object sender, EventArgs e) {
+            Invalidate();//remove visible
+            Invalidate();//remove visible
             Invalidate();//remove visible
         }
     }
