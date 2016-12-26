@@ -8,7 +8,10 @@ namespace Test_Winforms_Proj
 {
     class Class4 {
         public int c = 5;
+        public int l = 5;
         public int a = 5;
-        public int da = 5;
+        public int ya = 5;
+        public int n = 5;
+        public int k = 5;
     }
 }
