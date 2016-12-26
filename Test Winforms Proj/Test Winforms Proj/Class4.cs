@@ -10,7 +10,7 @@ namespace Test_Winforms_Proj
         public int c = 5;
         public int l = 5;
         public int a = 5;
-        public int ya = 5;
+        public int ka = 5;
         public int n = 5;
         public int k = 5;
     }
